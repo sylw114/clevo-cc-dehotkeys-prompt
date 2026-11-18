@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pfx
+*.cer
+*.appx
+*.appxbundle
+*.log
+*.exe
+*.rar
+*.zip
+*.7z
+extracted/
+out/
+work/
+temp/
